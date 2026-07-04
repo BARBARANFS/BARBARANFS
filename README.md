@@ -1,134 +1,145 @@
-# 👩‍💻 **Barbara Freitas**  
-## 📂 **Portfólio Profissional**
+# 👩‍💻 Olá! Eu sou **Barbara Freitas**
 
-### ✨ Da contabilidade à ciência de dados: uma jornada analítica  
+### **Data Analyst • Data Science Student • Python • Machine Learning • Financial Analytics**
 
-🎓 **Formada em Ciências Contábeis pela UFPE**  
-📚 **Especialista em Direito Tributário e Aduaneiro pela PUC Minas**  
-💼 **+10 anos de experiência nas áreas Contábil, Fiscal, Tributária e Departamento Pessoal**  
-📊 **Graduanda em Ciência de Dados pela Estácio de Sá (2º semestre)**  
-🚀 Em **transição de carreira para a área de Dados**, unindo minha bagagem contábil e tributária com novas competências em análise e tecnologia.  
+<p align="center">
 
----
+Transformando dados em decisões inteligentes.
 
-## 🌟 Sobre mim  
-Sou apaixonada por transformar **números em insights estratégicos**. Minha trajetória combina sólida experiência em contabilidade e tributação com uma nova jornada em **Big Data, Analytics e Ciência de Dados**.  
-Acredito que dados são o futuro da tomada de decisão, e quero ser ponte entre o mundo financeiro/tributário e a inteligência analítica.  
+Da Contabilidade e Tributação para a Ciência de Dados.
+
+</p>
 
 ---
 
-## ✨ Missão & Valores  
+## 🌞 Sobre mim
 
-- **Missão**: Usar dados para gerar valor estratégico, apoiar decisões inteligentes e promover inovação.  
-- **Valores**:  
-  - Ética e transparência na análise de informações  
-  - Inovação contínua e aprendizado constante  
-  - Impacto positivo nos negócios e na sociedade  
-  - Colaboração e compartilhamento de conhecimento  
+Sou graduada em **Ciências Contábeis pela UFPE**, especialista em **Direito Tributário e Aduaneiro pela PUC Minas** e possuo mais de **10 anos de experiência** nas áreas Contábil, Fiscal, Tributária e Departamento Pessoal.
 
----
+Atualmente curso **Ciência de Dados** e estou em transição para a área de Dados, unindo minha experiência em negócios com programação, estatística, inteligência artificial e análise de dados.
 
-## 🛠️ Tecnologias & Ferramentas  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+Meu objetivo é desenvolver soluções que transformem dados em decisões estratégicas, especialmente nas áreas Financeira, Tributária e de Compliance.
 
 ---
 
-## 📜 Certificações  
+# 💻 Stack Tecnológica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Certifications-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/barbarafreitas-dataanalytics/details/certifications/)  
-[![DIO](https://img.shields.io/badge/DIO-Certifications-purple?style=for-the-badge&logo=google-cloud)](https://web.dio.me/certificates)  
-[![FIAP](https://img.shields.io/badge/FIAP-Certificates-gold?style=for-the-badge&logo=academia)](https://on.fiap.com.br/certificados/)  
+### Linguagens
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🎯 Certificações em Destaque  
+### Ciência de Dados
 
-- **FIAP – Big Data & Analytics (60h)**  
-- **FIAP – Gestão Financeira de Empresas (20h)**  
-- **DIO – Data Science & Python**  
-- **DIO – Cloud & AI Essentials**  
-- **LinkedIn Learning – Business Intelligence & Analytics**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
----
+### Business Intelligence
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
-## 🚀 Projetos em Destaque  
-- **Fraudshield AI 2.0** – 🔍 Detecção de fraudes financeiras com IA
-- **BIA Academy Finance** – 💡 Educadora financeira inclusiva com IA local
-- **VoxAI DIO** – 🎙️ Assistente de voz com NLP  
-- **Miniguia SFN Investimentos** – 📘 Guia prático sobre o Sistema Financeiro Nacional  
+### Desenvolvimento
 
- 
----
-
-## 💼 Experiência Profissional  
-
-### 📊 Resumo em Tabela  
-
-| 🏷️ Cargo                        | 🏢 Empresa             | 📅 Período     | 🔑 Competências-Chave |
-|---------------------------------|-----------------------|----------------|-----------------------|
-| ⭐ Analista Contábil Fiscal Pleno | DEAL Digital Market   | 2024–2025      | Conciliação, Análise Contábil, Apuração IRPJ/CSLL, Obrigações Acessórias ERP Sankhya |
-| ⭐ Analista Contábil Pleno        | Natto                 | 2023           | ICMS/Prodepe, Conciliação,Análise Contábil, ERP Sankhya |
-| 📌 Assistente Fiscal              | Ortho Pauher          | 2022–2023      | Escrituração Fiscal, Retenção de Impostos, ERP Protheus-Totvs |
-| 📌 Assistente Fiscal              | Grupo Fertipar        | 2020–2022      | Escrituração Fiscal, Cadastro Fornecedores, Apuração Municipal, ERP Protheus-Totvs|
-| 📌 Assistente Contábil            | Grupo Parvi           | 2018–2020      | Conciliação, Analise Contábil,PIS/COFINS,ERP Dealernet|
-| 📌 Assistente Contábil            | Conege Consultores    | 2014–2017      | Escrituração Contábil-Fiscal, Folha, ERP Domínio |
-| 🎓 Auxiliar Contábil              | Campos e Garcia       | 2011–2012      | Estágio, Escrituração Cont/abil|Fiscal| Depto Pessoal, Balancetes, Obrigações Acessórias |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
-### 🕰️ Linha do Tempo Visual  
+# ⭐ Projetos em Destaque
 
-```mermaid
-timeline
-    title Evolução de Carreira
-    section Início
-      2011 : 🎓 Auxiliar Contábil – Campos e Garcia
-    section Consolidação
-      2014 : 📌 Assistente Contábil – Conege Consultores
-      2018 : 📌 Assistente Contábil – Grupo Parvi
-    section Fiscal
-      2020 : 📌 Assistente Fiscal – Grupo Fertipar
-      2022 : 📌 Assistente Fiscal – Ortho Pauher
-    section Analista
-      2023 : ⭐ Analista Contábil Pleno – Natto
-      2024 : ⭐ Analista Contábil Fiscal Pleno – DEAL Digital Market
-```
+## 🛡️ FraudShield AI
 
+Sistema inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI e dashboard interativo desenvolvido em Streamlit.
 
-## 🧭 Roadmap de Aprendizado  
+**Tecnologias**
 
-- ✅ **Já dominando**: Contabilidade, Fiscal, DP, Excel Avançado, Power BI  
-- 🚧 **Em progresso**: Python, SQL, Pandas, Estatística aplicada  
-- 🌱 **Próximos passos**: Machine Learning, Cloud Computing, IA Generativa, Engenharia de Dados  
+Python • Pandas • Scikit-Learn • SHAP • Streamlit • Plotly
 
 ---
 
-## 🕰️ Future Timeline – Próximas Certificações  
+## 🤖 BIA Academy Finance
 
-```mermaid
-timeline
-    title Roadmap de Certificações Futuras
-    section Machine Learning
-      2026 : 📊 Machine Learning Avançado
-    section Engenharia de Dados
-      2027 : 🔧 Pipelines ETL e integração
-    section Cloud
-      2027 : ☁️ Certificações AWS, Azure, GCP
-    section IA Generativa
-      2028 : 🤖 Aplicações de IA generativa
-    section Visualização
-      2028 : 📈 Power BI Avançado & Data Storytelling
-```
+Assistente financeiro baseado em Inteligência Artificial para educação financeira inclusiva.
 
+---
 
-## 🌐 Conecte-se comigo  
-- **LinkedIn**: [Barbara Freitas](https://www.linkedin.com/in/barbarafreitas-dataanalytics)  
-- **GitHub**: [BARBARANFS](https://github.com/BARBARANFS)  
-  
+## 🎙️ VoxAI DIO
+
+Assistente de voz utilizando NLP para interação por linguagem natural.
+
+---
+
+## 📘 Miniguia SFN Investimentos
+
+Projeto educacional sobre Sistema Financeiro Nacional e Mercado de Capitais.
+
+---
+
+# 📚 Atualmente estudando
+
+* Python
+* SQL
+* Estatística
+* Machine Learning
+* Inteligência Artificial
+* Engenharia de Dados
+* Cloud Computing
+
+---
+
+# 🏆 Certificações
+
+* Big Data & Analytics
+* Data Science
+* Python
+* Cloud Computing
+* Inteligência Artificial
+* Power BI
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=BARBARANFS&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARBARANFS&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Objetivos Profissionais
+
+* Ciência de Dados
+* Data Analytics
+* Machine Learning
+* IA Generativa
+* Analytics Financeiro
+* Business Intelligence
+* Data Visualization
+
+---
+
+# 🌎 Vamos nos conectar
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/barbarafreitas-dataanalytics
+
+💻 GitHub
+
+https://github.com/BARBARANFS
+
+---
+
+> **"Dados contam histórias. Meu papel é transformá-las em decisões que geram impacto."**
