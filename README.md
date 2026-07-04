@@ -1,61 +1,87 @@
-# 👩‍💻 Olá! Eu sou **Barbara Freitas**
+<div align="center">
 
-### **Data Analyst • Data Science Student • Python • Machine Learning • Financial Analytics**
+# 👋 Olá! Eu sou Barbara Freitas
 
-<p align="center">
+### Data Analyst | Python | Machine Learning | Financial & Tax Analytics
 
-Transformando dados em decisões inteligentes.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas.;+10+anos+de+experi%C3%AAncia+em+Contabilidade+e+Tributa%C3%A7%C3%A3o.;Ci%C3%AAncia+de+Dados+aplicada+a+problemas+reais.;Business+Vision+%2B+Python+%2B+Machine+Learning."/>
 
-Da Contabilidade e Tributação para a Ciência de Dados.
-
-</p>
+</div>
 
 ---
 
-## 🌞 Sobre mim
+# 💙 Sobre mim
 
-Sou graduada em **Ciências Contábeis pela UFPE**, especialista em **Direito Tributário e Aduaneiro pela PUC Minas** e possuo mais de **10 anos de experiência** nas áreas Contábil, Fiscal, Tributária e Departamento Pessoal.
+Sou graduada em **Ciências Contábeis pela Universidade Federal de Pernambuco (UFPE)** e especialista em **Direito Tributário e Aduaneiro pela PUC Minas**.
 
-Atualmente curso **Ciência de Dados** e estou em transição para a área de Dados, unindo minha experiência em negócios com programação, estatística, inteligência artificial e análise de dados.
+Ao longo de mais de **10 anos de experiência profissional**, atuei nas áreas:
 
-Meu objetivo é desenvolver soluções que transformem dados em decisões estratégicas, especialmente nas áreas Financeira, Tributária e de Compliance.
+✔ Contabilidade
 
----
+✔ Fiscal
 
-# 💻 Stack Tecnológica
+✔ Tributária
 
-### Linguagens
+✔ Departamento Pessoal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+✔ Compliance
 
-### Ciência de Dados
+✔ Planejamento Tributário
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+Essa trajetória me proporcionou uma forte visão de negócios, capacidade analítica e experiência na resolução de problemas complexos relacionados à gestão financeira, conformidade fiscal e tomada de decisão.
 
-### Business Intelligence
+Hoje direciono essa experiência para **Ciência de Dados**, utilizando **Python**, **Machine Learning**, **Business Intelligence** e **Inteligência Artificial** para desenvolver soluções que unem tecnologia e conhecimento de negócio.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
-### Desenvolvimento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+Meu objetivo é atuar em projetos que gerem impacto real por meio da análise de dados, automação e inteligência analítica.
 
 ---
 
-# ⭐ Projetos em Destaque
+# 🚀 Principais Competências
 
-## 🛡️ FraudShield AI
+### 📊 Business Analytics
 
-Sistema inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI e dashboard interativo desenvolvido em Streamlit.
+- Contabilidade
+- Fiscal
+- Tributário
+- Compliance
+- Planejamento Tributário
+- Departamento Pessoal
+- Indicadores Financeiros
+- Governança de Dados
 
-**Tecnologias**
+### 💻 Data Analytics
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Plotly
+- Streamlit
+
+### 📈 Business Intelligence
+
+- Power BI
+- Excel Avançado
+- Data Visualization
+- Storytelling com Dados
+
+### ⚙ Ferramentas
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# ⭐ Projetos
+
+## 🛡 FraudShield AI
+
+Sistema inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI (SHAP/LIME) e dashboard executivo desenvolvido em Streamlit.
+
+**Stack**
 
 Python • Pandas • Scikit-Learn • SHAP • Streamlit • Plotly
 
@@ -63,13 +89,13 @@ Python • Pandas • Scikit-Learn • SHAP • Streamlit • Plotly
 
 ## 🤖 BIA Academy Finance
 
-Assistente financeiro baseado em Inteligência Artificial para educação financeira inclusiva.
+Assistente virtual desenvolvido para promover educação financeira acessível utilizando Inteligência Artificial.
 
 ---
 
-## 🎙️ VoxAI DIO
+## 🎙 VoxAI
 
-Assistente de voz utilizando NLP para interação por linguagem natural.
+Assistente de voz utilizando Processamento de Linguagem Natural (NLP).
 
 ---
 
@@ -79,67 +105,145 @@ Projeto educacional sobre Sistema Financeiro Nacional e Mercado de Capitais.
 
 ---
 
-# 📚 Atualmente estudando
+# 🎓 Formação
 
-* Python
-* SQL
-* Estatística
-* Machine Learning
-* Inteligência Artificial
-* Engenharia de Dados
-* Cloud Computing
+🎓 Bacharelado em Ciências Contábeis — Universidade Federal de Pernambuco (UFPE)
+
+🎓 Especialização em Direito Tributário e Aduaneiro — PUC Minas
+
+🎓 Ciência de Dados — Universidade Estácio de Sá *(em andamento)*
 
 ---
 
 # 🏆 Certificações
 
-* Big Data & Analytics
-* Data Science
-* Python
-* Cloud Computing
-* Inteligência Artificial
-* Power BI
+## FIAP
+
+🏅 Big Data & Analytics — 60h
+
+🏅 Gestão Financeira de Empresas — 20h
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Digital Innovation One (DIO)
 
-<p align="center">
+### Python
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=BARBARANFS&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+- Fundamentos de Python
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Manipulação de Arquivos
+- Decoradores
+- Iteradores
+- Geradores
+- Visualização de Dados
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARBARANFS&layout=compact&theme=github_dark&hide_border=true"/>
+### Data Science
 
-</p>
+- Análise Exploratória de Dados
+- Preparação de Dados
+- Machine Learning
+- Estatística aplicada
 
----
+### Inteligência Artificial
 
-# 🎯 Objetivos Profissionais
+- IA Generativa
+- Microsoft Copilot
+- Azure AI
+- Assistentes Inteligentes
 
-* Ciência de Dados
-* Data Analytics
-* Machine Learning
-* IA Generativa
-* Analytics Financeiro
-* Business Intelligence
-* Data Visualization
+### Cloud & Dev
 
----
-
-# 🌎 Vamos nos conectar
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/barbarafreitas-dataanalytics
-
-💻 GitHub
-
-https://github.com/BARBARANFS
+- Git
+- GitHub
+- Cloud Fundamentals
+- Scrum
+- APIs
 
 ---
 
-> **"Dados contam histórias. Meu papel é transformá-las em decisões que geram impacto."**
+# 📚 Atualmente estudando
+
+- Machine Learning
+
+- Deep Learning
+
+- Engenharia de Dados
+
+- IA Generativa
+
+- Cloud Computing
+
+- Arquitetura de Dados
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BARBARANFS&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARBARANFS&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BARBARANFS&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Áreas de Interesse
+
+✔ Ciência de Dados
+
+✔ Machine Learning
+
+✔ IA Generativa
+
+✔ Analytics Financeiro
+
+✔ Tax Analytics
+
+✔ Business Intelligence
+
+✔ Compliance Analytics
+
+✔ Engenharia de Dados
+
+---
+
+# 🌎 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/barbarafreitas-dataanalytics">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BARBARANFS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Minha filosofia
+
+> **Tecnologia por si só não resolve problemas.**
+>
+> O verdadeiro valor surge quando conhecimento de negócio, dados e inteligência artificial trabalham juntos para apoiar decisões mais estratégicas.
+>
+> É exatamente nessa interseção entre negócios e tecnologia que construo minha carreira.
+
+</div>
