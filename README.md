@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Barbara Freitas   
+# 👩‍💻 **Barbara Freitas**  
+## 📂 **Portfólio Profissional**
+
 ### ✨ Da contabilidade à ciência de dados: uma jornada analítica  
 
 🎓 **Formada em Ciências Contábeis pela UFPE**  
@@ -55,12 +57,6 @@ Acredito que dados são o futuro da tomada de decisão, e quero ser ponte entre 
 
 ---
 
-## ✍️ Publicações & Artigos  
-
-- [Artigos na DIO](https://web.dio.me/articles)  
-- [Publicações no LinkedIn](https://www.linkedin.com/in/barbarafreitas-dataanalytics/details/publications/)  
-
----
 
 ## 🚀 Projetos em Destaque  
 - **Fraudshield AI 2.0** – 🔍 Detecção de fraudes financeiras com IA
@@ -69,7 +65,6 @@ Acredito que dados são o futuro da tomada de decisão, e quero ser ponte entre 
 - **Miniguia SFN Investimentos** – 📘 Guia prático sobre o Sistema Financeiro Nacional  
 
  
-
 ---
 
 ## 💼 Experiência Profissional  
@@ -136,4 +131,4 @@ timeline
 ## 🌐 Conecte-se comigo  
 - **LinkedIn**: [Barbara Freitas](https://www.linkedin.com/in/barbarafreitas-dataanalytics)  
 - **GitHub**: [BARBARANFS](https://github.com/BARBARANFS)  
-- **DIO**: [Perfil DIO](https://web.dio.me/users/barbaranfs)  
+  
