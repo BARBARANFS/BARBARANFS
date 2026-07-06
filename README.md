@@ -10,6 +10,32 @@ Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Adua
 Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções que transformam dados em inteligência, apoiando decisões estratégicas, reduzindo riscos e gerando valor para organizações.
 
 ---
+# 🌐 Ecossistema de Soluções
+
+Este portfólio reúne um conjunto de projetos que demonstram diferentes aplicações de **Data Analytics, Machine Learning, Inteligência Artificial Generativa e Engenharia de Conhecimento**.
+
+Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à transformação de dados em inteligência para apoiar decisões, reduzir riscos e gerar impacto.
+
+<p align="center">
+  <img src="assets/projetos.png" width="100%" alt="Ecossistema de Soluções">
+</p>
+
+<div align="center">
+
+| 📘 Conhecimento | 💙 IA Generativa | 🎙️ IA Conversacional | 🛡️ Risk Analytics |
+|:---------------:|:----------------:|:--------------------:|:-----------------:|
+| **Knowledge Hub** | **BIA Academy Finance** | **VoxAI** | **FraudShield AI 2.0** |
+| Base estruturada de conhecimento | Educação Financeira Inteligente | Assistente de Voz | Detecção de Fraudes |
+| Prompt Engineering | RAG + Ollama | Whisper + NLP | Machine Learning + XAI |
+
+</div>
+
+<p align="center">
+<b>Conhecimento → Inteligência → Interação → Decisão</b>
+</p>
+
+---
+
 
 # 🧩 Como transformo dados em valor
 
@@ -37,33 +63,6 @@ Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteli
                      ▼
       Apoio à Tomada de Decisão
 ```
-
-
-# 🌐 Ecossistema de Soluções
-
-Este portfólio reúne um conjunto de projetos que demonstram diferentes aplicações de **Data Analytics, Machine Learning, Inteligência Artificial Generativa e Engenharia de Conhecimento**.
-
-Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à transformação de dados em inteligência para apoiar decisões, reduzir riscos e gerar impacto.
-
-<p align="center">
-  <img src="assets/projetos.png" width="100%" alt="Ecossistema de Soluções">
-</p>
-
-<div align="center">
-
-| 📘 Conhecimento | 💙 IA Generativa | 🎙️ IA Conversacional | 🛡️ Risk Analytics |
-|:---------------:|:----------------:|:--------------------:|:-----------------:|
-| **Knowledge Hub** | **BIA Academy Finance** | **VoxAI** | **FraudShield AI 2.0** |
-| Base estruturada de conhecimento | Educação Financeira Inteligente | Assistente de Voz | Detecção de Fraudes |
-| Prompt Engineering | RAG + Ollama | Whisper + NLP | Machine Learning + XAI |
-
-</div>
-
-<p align="center">
-<b>Conhecimento → Inteligência → Interação → Decisão</b>
-</p>
-
----
 
 # 🚀 Competências Demonstradas
 
@@ -145,7 +144,6 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 
 ---
 
-
 # 📚 Formação Complementar
 
 <div align="center">
@@ -159,7 +157,6 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 </div>
 
 > **Formação complementar desenvolvida por meio de trilhas práticas na Digital Innovation One (DIO) e FIAP, com foco em Ciência de Dados, Inteligência Artificial e Desenvolvimento.**
-
 
 
 # 📊 GitHub em Números
@@ -183,7 +180,6 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 </div>
 
 ---
-
 
 # 💡 Minha Filosofia
 
