@@ -1,41 +1,6 @@
-<div align="center">
-
-# Barbara Freitas
-
-### Data Analytics • Machine Learning • Generative AI • Financial Intelligence
-
-### Transformando dados financeiros em soluções inteligentes para reduzir riscos, apoiar decisões estratégicas e democratizar o acesso à educação financeira por meio da Inteligência Artificial.
-
-<br>
-
-<p>
-
-<a href="https://github.com/BARBARANFS">
-<img src="https://img.shields.io/badge/GitHub-BARBARANFS-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:SEUEMAIL@email.com">
-<img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<p align="center">
+  <img src="assets/banner.png" alt="Barbara Freitas | Data Analytics | Machine Learning | Generative AI" width="100%">
 </p>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial_Intelligence-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk_Analytics-C62828?style=for-the-badge"/>
-
-</div>
-
----
 
 # Sobre Mim
 
