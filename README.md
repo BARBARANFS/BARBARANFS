@@ -129,7 +129,7 @@ Cada etapa ampliou minha capacidade de compreender problemas complexos e desenvo
 
 ---
 
-# 💎 O que torna minha trajetória diferente?
+#  💎 Diferencial Profissional
 
 Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de construir modelos, aprendi a compreender processos financeiros, tributários e de compliance. Hoje aplico Ciência de Dados e Inteligência Artificial para resolver esses desafios de forma orientada por dados.
 
@@ -183,7 +183,6 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 </div>
 
 ---
-
 
 
 # 💡 Minha Filosofia
