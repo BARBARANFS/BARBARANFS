@@ -95,7 +95,7 @@ Mais do que apresentar tecnologias, este portfólio evidencia a aplicação prá
 
 </div>
 
-# 🚀 Minha Jornada Profissional
+#  📈 Evolução Profissional
 
 Minha carreira representa uma evolução contínua entre conhecimento de negócio e tecnologia.
 
