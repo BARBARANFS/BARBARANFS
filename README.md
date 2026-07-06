@@ -5,7 +5,7 @@
 
 # 👋 Sobre Mim
 
-Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Depº Pessoal,Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio orientada à análise de dados, gestão de riscos e tomada de decisão.
+Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Departamento Pessoal, Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio orientada à análise de dados, gestão de riscos e tomada de decisão.
 
 Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções que transformam dados em inteligência, apoiando decisões estratégicas, reduzindo riscos e gerando valor para organizações.
 
@@ -148,7 +148,7 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 
 <div align="center">
 
-| Python | Data Science | IA Generativa | Cloud |
+| Python | Data Science | IA Generativa | Cloud & Dev |
 |:------:|:-----------:|:------------:|:------:|
 | Programação | Machine Learning | Prompt Engineering | Git |
 | POO | Estatística | Azure AI | GitHub |
@@ -207,10 +207,6 @@ Estou sempre aberta a oportunidades, colaborações e desafios que envolvam dado
 
 <a href="https://www.linkedin.com/in/barbarafreitas-dataanalytics" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Barbara%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@email.com">
-<img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
