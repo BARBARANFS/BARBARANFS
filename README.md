@@ -159,6 +159,7 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 > **Formação complementar desenvolvida por meio de trilhas práticas na Digital Innovation One (DIO) e FIAP, com foco em Ciência de Dados, Inteligência Artificial e Desenvolvimento.**
 
 
+
 # 📊 GitHub em Números
 
 <div align="center">
