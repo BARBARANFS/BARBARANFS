@@ -64,7 +64,7 @@ Embora possam ser utilizados de forma independente, todos fazem parte de um mesm
       Apoio à Tomada de Decisão
 ```
 
-# 🚀 Competências Demonstradas
+# 🛠️ Competências & Tecnologias
 
 Mais do que apresentar tecnologias, este portfólio evidencia a aplicação prática de **Ciência de Dados, Inteligência Artificial e conhecimento de negócio** na resolução de problemas reais, conectando análise de dados, desenvolvimento de modelos e geração de valor para organizações.
 
