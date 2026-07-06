@@ -1,249 +1,360 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Barbara Freitas
+# Barbara Freitas
 
-### Data Analyst | Python | Machine Learning | Financial & Tax Analytics
+### Data Analytics • Machine Learning • Generative AI • Financial Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas.;+10+anos+de+experi%C3%AAncia+em+Contabilidade+e+Tributa%C3%A7%C3%A3o.;Ci%C3%AAncia+de+Dados+aplicada+a+problemas+reais.;Business+Vision+%2B+Python+%2B+Machine+Learning."/>
+### Transformando dados financeiros em soluções inteligentes para reduzir riscos, apoiar decisões estratégicas e democratizar o acesso à educação financeira por meio da Inteligência Artificial.
+
+<br>
+
+<p>
+
+<a href="https://github.com/BARBARANFS">
+<img src="https://img.shields.io/badge/GitHub-BARBARANFS-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEUEMAIL@email.com">
+<img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Financial_Intelligence-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk_Analytics-C62828?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💙 Sobre mim
+# Sobre Mim
 
-Sou graduada em **Ciências Contábeis pela Universidade Federal de Pernambuco (UFPE)** e especialista em **Direito Tributário e Aduaneiro pela PUC Minas**.
+Sou profissional com **mais de 10 anos de experiência** nas áreas **Contábil, Departamento Pessoal, Fiscal,Tributária e Compliance**, atualmente direcionando essa experiência para **Ciência de Dados, Machine Learning e Inteligência Artificial Generativa**.
 
-Ao longo de mais de **10 anos de experiência profissional**, atuei nas áreas:
+Minha trajetória me proporcionou uma sólida visão de negócio e uma compreensão profunda de processos financeiros, gestão de riscos, governança e tomada de decisão.
 
-✔ Contabilidade
+Hoje aplico esse conhecimento no desenvolvimento de soluções baseadas em dados, capazes de transformar informações complexas em insights estratégicos e produtos inteligentes.
 
-✔ Fiscal
-
-✔ Tributária
-
-✔ Departamento Pessoal
-
-✔ Compliance
-
-✔ Planejamento Tributário
-
-Essa trajetória me proporcionou uma forte visão de negócios, capacidade analítica e experiência na resolução de problemas complexos relacionados à gestão financeira, conformidade fiscal e tomada de decisão.
-
-Hoje direciono essa experiência para **Ciência de Dados**, utilizando **Python**, **Machine Learning**, **Business Intelligence** e **Inteligência Artificial** para desenvolver soluções que unem tecnologia e conhecimento de negócio.
-
-Meu objetivo é atuar em projetos que gerem impacto real por meio da análise de dados, automação e inteligência analítica.
+Minha principal motivação é construir soluções que unam **tecnologia, dados e conhecimento de negócio** para gerar impacto real em organizações e pessoas.
 
 ---
 
-# 🚀 Principais Competências
+# O que entrego
 
-### 📊 Business Analytics
+Ao desenvolver um projeto, meu foco não está apenas na tecnologia utilizada.
 
-- Contabilidade
-- Fiscal
-- Tributário
-- Compliance
-- Planejamento Tributário
-- Departamento Pessoal
-- Indicadores Financeiros
-- Governança de Dados
+Meu objetivo é construir soluções que gerem valor para o negócio por meio de:
 
-### 💻 Data Analytics
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Plotly
-- Streamlit
-
-### 📈 Business Intelligence
-
-- Power BI
-- Excel Avançado
-- Data Visualization
-- Storytelling com Dados
-
-### ⚙ Ferramentas
-
-- Git
-- GitHub
-- VS Code
+* 📊 Análise de Dados orientada à tomada de decisão
+* 🤖 Machine Learning aplicado a problemas reais
+* 🧠 Inteligência Artificial Generativa
+* 💰 Analytics Financeiro e Tributário
+* 🛡️ Gestão de Riscos e Compliance
+* 📈 Dashboards Executivos
+* ⚙️ Automação de processos analíticos
+* 💡 Soluções centradas no usuário
 
 ---
 
-# ⭐ Projetos
+# Como transformo dados em valor
 
-## 🛡 FraudShield AI
+```text
+            Problema de Negócio
+                     │
+                     ▼
+      Entendimento do Contexto
+                     │
+                     ▼
+      Coleta e Preparação de Dados
+                     │
+                     ▼
+        Análise Exploratória (EDA)
+                     │
+                     ▼
+ Machine Learning / Inteligência Artificial
+                     │
+                     ▼
+      Explainable AI (Interpretabilidade)
+                     │
+                     ▼
+ Dashboards • Indicadores • Automação
+                     │
+                     ▼
+      Apoio à Tomada de Decisão
+```
 
-Sistema inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI (SHAP/LIME) e dashboard executivo desenvolvido em Streamlit.
 
-**Stack**
 
-Python • Pandas • Scikit-Learn • SHAP • Streamlit • Plotly
+> ## Minha Missão
+>
+> **Transformar dados em inteligência para apoiar decisões mais seguras, eficientes e acessíveis, conectando experiência de negócio, Ciência de Dados e Inteligência Artificial para resolver problemas reais.**
 
----
+ ---
 
-## 🤖 BIA Academy Finance
+# 🚀 Ecossistema de Soluções em Dados e Inteligência Artificial
 
-Assistente virtual desenvolvido para promover educação financeira acessível utilizando Inteligência Artificial.
+Cada repositório deste GitHub representa uma solução desenvolvida para resolver um problema de negócio específico.
 
----
+Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à aplicação de **Data Analytics, Machine Learning, Inteligência Artificial Generativa e Engenharia de Conhecimento** no contexto financeiro.
 
-## 🎙 VoxAI
+Meu objetivo é demonstrar como dados, IA e conhecimento de negócio podem ser integrados para gerar valor real para organizações e pessoas.
 
-Assistente de voz utilizando Processamento de Linguagem Natural (NLP).
-
----
-
-## 📘 Miniguia SFN Investimentos
-
-Projeto educacional sobre Sistema Financeiro Nacional e Mercado de Capitais.
-
----
-
-# 🎓 Formação
-
-🎓 Bacharelado em Ciências Contábeis — Universidade Federal de Pernambuco (UFPE)
-
-🎓 Especialização em Direito Tributário e Aduaneiro — PUC Minas
-
-🎓 Ciência de Dados — Universidade Estácio de Sá *(em andamento)*
-
----
-
-# 🏆 Certificações
-
-## FIAP
-
-🏅 Big Data & Analytics — 60h
-
-🏅 Gestão Financeira de Empresas — 20h
+<br>
 
 ---
 
-## Digital Innovation One (DIO)
+# 🧩 Como meus projetos se conectam
 
-### Python
+```text
+                  CONHECIMENTO
 
-- Fundamentos de Python
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Manipulação de Arquivos
-- Decoradores
-- Iteradores
-- Geradores
-- Visualização de Dados
+              📘 Knowledge Hub
+          Base estruturada do SFN
+      Glossário • Prompts • Conteúdo
+                     │
+                     ▼
+      ─────────────────────────────────
 
-### Data Science
+              IA GENERATIVA
 
-- Análise Exploratória de Dados
-- Preparação de Dados
-- Machine Learning
-- Estatística aplicada
+          💙 BIA Academy Finance
+      Educação Financeira Inteligente
+       RAG • Ollama • Acessibilidade
+                     │
+                     ▼
+      ─────────────────────────────────
 
-### Inteligência Artificial
+           INTERAÇÃO NATURAL
 
-- IA Generativa
-- Microsoft Copilot
-- Azure AI
-- Assistentes Inteligentes
+              🎙️ VoxAI
+     Assistente Conversacional por Voz
+ Whisper • NLP • Transformers • gTTS
+                     │
+                     ▼
+      ─────────────────────────────────
 
-### Cloud & Dev
+          RISCO E DECISÃO
 
-- Git
-- GitHub
-- Cloud Fundamentals
-- Scrum
-- APIs
+          🛡 FraudShield AI 2.0
+   Machine Learning • XAI • Analytics
+        Gestão Inteligente de Fraudes
+                     │
+                     ▼
 
----
-
-# 📚 Atualmente estudando
-
-- Machine Learning
-
-- Deep Learning
-
-- Engenharia de Dados
-
-- IA Generativa
-
-- Cloud Computing
-
-- Arquitetura de Dados
+      🎯 Financial Intelligence
+```
 
 ---
 
-# 📊 Estatísticas
+# 🌟 Soluções Desenvolvidas
 
-<div align="center">
+<table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BARBARANFS&show_icons=true&theme=github_dark&hide_border=true"/>
+<tr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARBARANFS&layout=compact&theme=github_dark&hide_border=true"/>
+<td width="50%" valign="top">
 
-</div>
+## 🛡 FraudShield AI 2.0
 
----
+### Financial Risk Analytics
 
-# 🔥 Contribuições
+Plataforma inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI (XAI) e análise de risco.
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BARBARANFS&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Áreas de Interesse
-
-✔ Ciência de Dados
+### Destaques
 
 ✔ Machine Learning
 
+✔ Explainable AI (XAI)
+
+✔ Executive Dashboard
+
+✔ Risk Analytics
+
+✔ Business Score
+
+✔ ROI Financeiro
+
+### Tecnologias
+
+Python • Pandas • Scikit-Learn • LightGBM • Streamlit • Plotly
+
+### Impacto
+
+💰 ROI estimado: **R$ 47.300**
+
+🎯 Foco em instituições financeiras, fintechs e meios de pagamento.
+
+➡️ **Repositório**
+
+https://github.com/BARBARANFS/FraudShield-AI-2.0
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💙 BIA Academy Finance
+
+### Generative AI for Financial Education
+
+Assistente inteligente desenvolvido para democratizar a educação financeira utilizando Inteligência Artificial Generativa.
+
+### Destaques
+
 ✔ IA Generativa
 
-✔ Analytics Financeiro
+✔ RAG
 
-✔ Tax Analytics
+✔ LLM Local (Ollama)
 
-✔ Business Intelligence
+✔ Prompt Engineering
 
-✔ Compliance Analytics
+✔ Acessibilidade Digital
 
-✔ Engenharia de Dados
+✔ Gamificação
+
+### Tecnologias
+
+Python • Streamlit • Ollama • RAG • JSON
+
+### Impacto
+
+🎯 Educação financeira personalizada para diferentes perfis de usuários.
+
+➡️ **Repositório**
+
+https://github.com/BARBARANFS/BIA-Academy-Finance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎙️ VoxAI
+
+### Conversational AI
+
+Pipeline completo para interação por voz utilizando modelos modernos de Inteligência Artificial.
+
+### Destaques
+
+✔ Speech-to-Text
+
+✔ Whisper
+
+✔ NLP
+
+✔ Transformers
+
+✔ Text-to-Speech
+
+✔ Assistente Inteligente
+
+### Tecnologias
+
+Python • Whisper • Hugging Face • PyTorch • gTTS
+
+### Impacto
+
+🎯 Demonstra aplicações práticas de IA Conversacional.
+
+➡️ **Repositório**
+
+https://github.com/BARBARANFS/VoxAI_DIO
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📘 Mniguia_SFN_Investimentos
+
+### Knowledge Engineering
+
+Base estruturada de conhecimento utilizada como suporte para aplicações de IA Generativa.
+
+### Destaques
+
+✔ Sistema Financeiro Nacional
+
+✔ Engenharia de Conhecimento
+
+✔ Glossário
+
+✔ Prompt Engineering
+
+✔ Base para RAG
+
+### Tecnologias
+
+Markdown • Git • GitHub
+
+### Impacto
+
+🎯 Organização do conhecimento para aplicações inteligentes.
+
+➡️ **Repositório**
+
+https://github.com/BARBARANFS/Miniguia-sfn-investimentos
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🌎 Vamos conversar?
+# 🎯 O que este portfólio demonstra
 
-<div align="center">
+Mais do que apresentar projetos isolados, este portfólio evidencia competências aplicadas em diferentes etapas do ciclo de desenvolvimento de soluções baseadas em dados.
 
-<a href="https://www.linkedin.com/in/barbarafreitas-dataanalytics">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📊 Analytics
 
-<a href="https://github.com/BARBARANFS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+* Análise Exploratória de Dados (EDA)
+* Storytelling com Dados
+* Indicadores de Negócio
+* Dashboards Executivos
 
 ---
 
-<div align="center">
+## 🤖 Inteligência Artificial
 
-## 💡 Minha filosofia
+* Machine Learning
+* Explainable AI (XAI)
+* IA Generativa
+* Engenharia de Prompt
+* RAG (Retrieval-Augmented Generation)
 
-> **Tecnologia por si só não resolve problemas.**
->
-> O verdadeiro valor surge quando conhecimento de negócio, dados e inteligência artificial trabalham juntos para apoiar decisões mais estratégicas.
->
-> É exatamente nessa interseção entre negócios e tecnologia que construo minha carreira.
+---
 
-</div>
+## 💼 Negócio
+
+* Gestão de Riscos
+* Compliance
+* Analytics Financeiro
+* Educação Financeira
+* Automação Analítica
+* Tomada de Decisão
+
+---
+
+# 💡 Diferencial
+
+Minha experiência em Finanças, Contabilidade, Tributário e Compliance permite desenvolver soluções de Dados e Inteligência Artificial alinhadas às necessidades reais do negócio.
+
+Essa combinação entre **conhecimento técnico** e **visão de negócio** orienta a construção de aplicações voltadas para impacto, eficiência e geração de valor.
+
+---
+
