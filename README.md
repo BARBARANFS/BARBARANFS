@@ -71,11 +71,6 @@ Sou profissional com mais de 10 anos de experiência em  Contabilidade, Departam
 ```
 
 
-
-> ## Minha Missão
->
-> **Transformar dados em inteligência para apoiar decisões mais seguras, eficientes e acessíveis, conectando experiência de negócio, Ciência de Dados e Inteligência Artificial para resolver problemas reais.**
-
  ---
 
 # 🚀 Ecossistema de Soluções em Dados e Inteligência Artificial
@@ -133,165 +128,18 @@ Meu objetivo é demonstrar como dados, IA e conhecimento de negócio podem ser i
 
 ---
 
-# 🌟 Soluções Desenvolvidas
+# 🌟 Ecossistema de Soluções
 
-<table>
+Mais do que projetos independentes, desenvolvi um conjunto de soluções que demonstram aplicações práticas de Ciência de Dados, Machine Learning e Inteligência Artificial em diferentes contextos de negócio.
 
-<tr>
+Cada projeto representa uma etapa de um ecossistema voltado para geração de valor por meio de dados.
 
-<td width="50%" valign="top">
+<p align="center">
+<img src="assets/projetos.png" width="100%">
+</p>
 
-## 🛡 FraudShield AI 2.0
 
-### Financial Risk Analytics
 
-Plataforma inteligente para detecção de fraudes financeiras utilizando Machine Learning, Explainable AI (XAI) e análise de risco.
-
-### Destaques
-
-✔ Machine Learning
-
-✔ Explainable AI (XAI)
-
-✔ Executive Dashboard
-
-✔ Risk Analytics
-
-✔ Business Score
-
-✔ ROI Financeiro
-
-### Tecnologias
-
-Python • Pandas • Scikit-Learn • LightGBM • Streamlit • Plotly
-
-### Impacto
-
-💰 ROI estimado: **R$ 47.300**
-
-🎯 Foco em instituições financeiras, fintechs e meios de pagamento.
-
-➡️ **Repositório**
-
-https://github.com/BARBARANFS/FraudShield-AI-2.0
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💙 BIA Academy Finance
-
-### Generative AI for Financial Education
-
-Assistente inteligente desenvolvido para democratizar a educação financeira utilizando Inteligência Artificial Generativa.
-
-### Destaques
-
-✔ IA Generativa
-
-✔ RAG
-
-✔ LLM Local (Ollama)
-
-✔ Prompt Engineering
-
-✔ Acessibilidade Digital
-
-✔ Gamificação
-
-### Tecnologias
-
-Python • Streamlit • Ollama • RAG • JSON
-
-### Impacto
-
-🎯 Educação financeira personalizada para diferentes perfis de usuários.
-
-➡️ **Repositório**
-
-https://github.com/BARBARANFS/BIA-Academy-Finance
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎙️ VoxAI
-
-### Conversational AI
-
-Pipeline completo para interação por voz utilizando modelos modernos de Inteligência Artificial.
-
-### Destaques
-
-✔ Speech-to-Text
-
-✔ Whisper
-
-✔ NLP
-
-✔ Transformers
-
-✔ Text-to-Speech
-
-✔ Assistente Inteligente
-
-### Tecnologias
-
-Python • Whisper • Hugging Face • PyTorch • gTTS
-
-### Impacto
-
-🎯 Demonstra aplicações práticas de IA Conversacional.
-
-➡️ **Repositório**
-
-https://github.com/BARBARANFS/VoxAI_DIO
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📘 Mniguia_SFN_Investimentos
-
-### Knowledge Engineering
-
-Base estruturada de conhecimento utilizada como suporte para aplicações de IA Generativa.
-
-### Destaques
-
-✔ Sistema Financeiro Nacional
-
-✔ Engenharia de Conhecimento
-
-✔ Glossário
-
-✔ Prompt Engineering
-
-✔ Base para RAG
-
-### Tecnologias
-
-Markdown • Git • GitHub
-
-### Impacto
-
-🎯 Organização do conhecimento para aplicações inteligentes.
-
-➡️ **Repositório**
-
-https://github.com/BARBARANFS/Miniguia-sfn-investimentos
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🎯 O que este portfólio demonstra
 
@@ -325,16 +173,7 @@ Mais do que apresentar projetos isolados, este portfólio evidencia competência
 * Automação Analítica
 * Tomada de Decisão
 
----
 
-# 💡 Diferencial
-
-Minha experiência em Finanças, Contabilidade, Tributário e Compliance permite desenvolver soluções de Dados e Inteligência Artificial alinhadas às necessidades reais do negócio.
-
-Essa combinação entre **conhecimento técnico** e **visão de negócio** orienta a construção de aplicações voltadas para impacto, eficiência e geração de valor.
-
----
----
 
 # 🧠 Competências Estratégicas
 
@@ -473,17 +312,7 @@ Essa combinação me permite compreender não apenas **como construir um modelo*
 
 > **Formação complementar desenvolvida por meio de trilhas práticas na Digital Innovation One (DIO) e FIAP, com foco em Ciência de Dados, Inteligência Artificial e Desenvolvimento.**
 
----
 
-
-# 🌱 Aprendizado Contínuo
-
-A tecnologia evolui rapidamente, e acredito que aprender continuamente faz parte da profissão.
-
-Por isso mantenho uma rotina constante de estudos, desenvolvimento de projetos e experimentação prática em Ciência de Dados, Inteligência Artificial e Analytics, buscando transformar conhecimento em soluções aplicáveis ao mundo real.
-
----
----
 
 # 📊 GitHub em Números
 
