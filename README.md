@@ -140,70 +140,20 @@ Mais do que apresentar projetos isolados, este portfólio evidencia competência
 
 
 
-# 🧠 Competências Estratégicas
+# 🛠️ Expertise
 
-Ao longo da minha trajetória desenvolvi competências que unem conhecimento de negócio, análise de dados e Inteligência Artificial.
+<p align="center">
 
-Em vez de enxergar tecnologia como um fim, utilizo dados para apoiar decisões, reduzir riscos e criar soluções aplicáveis ao contexto empresarial.
+| 📊 **Data Analytics** | 🤖 **Inteligência Artificial** | 💼 **Business & Financial Intelligence** |
+|:---:|:---:|:---:|
+| 🐍 Python | 🧠 Machine Learning | 💰 Financial Analytics |
+| 🗄️ SQL | ✨ IA Generativa | 🛡️ Risk Analytics |
+| 🐼 Pandas | 🔍 Explainable AI (XAI) | ⚖️ Compliance |
+| 📈 Data Visualization | 📚 RAG | 📊 Business Intelligence |
+| 📖 Storytelling com Dados | 💬 Prompt Engineering | 🏛️ Governança |
 
-<br>
+</p>
 
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-## 📊 Data Analytics
-
-* Python
-* SQL
-* Pandas
-* NumPy
-* Estatística
-* Data Wrangling
-* EDA
-* Data Visualization
-* Storytelling com Dados
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🤖 Inteligência Artificial
-
-* Machine Learning
-* Explainable AI (XAI)
-* IA Generativa
-* LLMs
-* Prompt Engineering
-* RAG
-* NLP
-* Whisper
-* Transformers
-
-</td>
-
-<td width="33%" valign="top">
-
-## 💼 Negócio
-
-* Financial Analytics
-* Risk Analytics
-* Compliance
-* Governança
-* Planejamento Tributário
-* Indicadores
-* Business Intelligence
-* Automação
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🚀 Minha Jornada Profissional
 
