@@ -2,9 +2,12 @@
   <img src="assets/banner.png" alt="Barbara Freitas | Data Analytics | Machine Learning | Generative AI" width="100%">
 </p>
 
+
 # 👋 Sobre Mim
 
-Sou profissional com mais de 10 anos de experiência em  Contabilidade, Departamento Pessoal, Fiscal - Tributário e Compliance são mais de 3 anos atuando buscando otimização de recursos financeiros por meio de Incentivos Fiscais. Atualmente aplico esse conhecimento em Ciência de Dados, Machine Learning e Inteligência Artificial para desenvolver soluções que apoiam decisões estratégicas, reduzem riscos e geram valor para o negócio.
+Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Depº P,Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio voltada à análise para a tomada de decisão.
+
+Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções que transformam dados em inteligência, apoiando decisões estratégicas, reduzindo riscos e gerando valor para organizações.
 
 ---
 
@@ -36,60 +39,16 @@ Sou profissional com mais de 10 anos de experiência em  Contabilidade, Departam
 ```
 
 
- ---
+ # 🌐 Ecossistema de Soluções
 
-# 🌐 Ecossistema de Soluções
+Mais do que projetos independentes, desenvolvo soluções que cobrem diferentes etapas do ciclo de criação de valor com dados.
 
-Cada repositório deste GitHub representa uma solução desenvolvida para resolver um problema de negócio específico.
+| 📘 Conhecimento | 💙 IA Generativa | 🎙️ Conversação | 🛡️ Analytics |
+|-----------------|-----------------|---------------|--------------|
+| **Knowledge Hub** | **BIA Academy** | **VoxAI** | **FraudShield AI** |
+| Base de conhecimento | Educação Financeira | Assistente por voz | Gestão de Fraudes |
+| Prompt Engineering | RAG + Ollama | Whisper + NLP | ML + XAI |
 
-Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à aplicação de **Data Analytics, Machine Learning, Inteligência Artificial Generativa e Engenharia de Conhecimento** no contexto financeiro.
-
-Meu objetivo é demonstrar como dados, IA e conhecimento de negócio podem ser integrados para gerar valor real para organizações e pessoas.
-
-<br>
-
----
-
-# 🧩 Como meus projetos se conectam
-
-```text
-                  CONHECIMENTO
-
-              📘 Knowledge Hub
-          Base estruturada do SFN
-      Glossário • Prompts • Conteúdo
-                     │
-                     ▼
-      ─────────────────────────────────
-
-              IA GENERATIVA
-
-          💙 BIA Academy Finance
-      Educação Financeira Inteligente
-       RAG • Ollama • Acessibilidade
-                     │
-                     ▼
-      ─────────────────────────────────
-
-           INTERAÇÃO NATURAL
-
-              🎙️ VoxAI
-     Assistente Conversacional por Voz
- Whisper • NLP • Transformers • gTTS
-                     │
-                     ▼
-      ─────────────────────────────────
-
-          RISCO E DECISÃO
-
-          🛡 FraudShield AI 2.0
-   Machine Learning • XAI • Analytics
-        Gestão Inteligente de Fraudes
-                     │
-                     ▼
-
-      🎯 Financial Intelligence
-```
 
 ---
 
@@ -102,7 +61,6 @@ Cada projeto representa uma etapa de um ecossistema voltado para geração de va
 <p align="center">
 <img src="assets/projetos.png" width="100%">
 </p>
-
 
 
 # 🎯 O que este portfólio demonstra
