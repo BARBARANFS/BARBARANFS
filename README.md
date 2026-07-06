@@ -39,29 +39,31 @@ Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteli
 ```
 
 
- # 🌐 Ecossistema de Soluções
+# 🌐 Ecossistema de Soluções
 
-Mais do que projetos independentes, desenvolvo soluções que cobrem diferentes etapas do ciclo de criação de valor com dados.
+Este portfólio reúne um conjunto de projetos que demonstram diferentes aplicações de **Data Analytics, Machine Learning, Inteligência Artificial Generativa e Engenharia de Conhecimento**.
 
-| 📘 Conhecimento | 💙 IA Generativa | 🎙️ Conversação | 🛡️ Analytics |
-|-----------------|-----------------|---------------|--------------|
-| **Knowledge Hub** | **BIA Academy** | **VoxAI** | **FraudShield AI** |
-| Base de conhecimento | Educação Financeira | Assistente por voz | Gestão de Fraudes |
-| Prompt Engineering | RAG + Ollama | Whisper + NLP | ML + XAI |
-
-
----
-
-# 🌟 Ecossistema de Soluções
-
-Mais do que projetos independentes, desenvolvi um conjunto de soluções que demonstram aplicações práticas de Ciência de Dados, Machine Learning e Inteligência Artificial em diferentes contextos de negócio.
-
-Cada projeto representa uma etapa de um ecossistema voltado para geração de valor por meio de dados.
+Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à transformação de dados em inteligência para apoiar decisões, reduzir riscos e gerar impacto.
 
 <p align="center">
-<img src="assets/projetos.png" width="100%">
+  <img src="assets/projetos.png" width="100%" alt="Ecossistema de Soluções">
 </p>
 
+<div align="center">
+
+| 📘 Conhecimento | 💙 IA Generativa | 🎙️ IA Conversacional | 🛡️ Risk Analytics |
+|:---------------:|:----------------:|:--------------------:|:-----------------:|
+| **Knowledge Hub** | **BIA Academy Finance** | **VoxAI** | **FraudShield AI 2.0** |
+| Base estruturada de conhecimento | Educação Financeira Inteligente | Assistente de Voz | Detecção de Fraudes |
+| Prompt Engineering | RAG + Ollama | Whisper + NLP | Machine Learning + XAI |
+
+</div>
+
+<p align="center">
+<b>Conhecimento → Inteligência → Interação → Decisão</b>
+</p>
+
+---
 
 # 🚀 Competências Demonstradas
 
