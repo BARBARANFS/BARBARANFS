@@ -2,13 +2,13 @@
   <img src="assets/banner.png" alt="Barbara Freitas | Data Analytics | Machine Learning | Generative AI" width="100%">
 </p>
 
-# Sobre Mim
+# 👋 Sobre Mim
 
 Sou profissional com mais de 10 anos de experiência em  Contabilidade, Departamento Pessoal, Fiscal - Tributário e Compliance são mais de 3 anos atuando buscando otimização de recursos financeiros por meio de Incentivos Fiscais. Atualmente aplico esse conhecimento em Ciência de Dados, Machine Learning e Inteligência Artificial para desenvolver soluções que apoiam decisões estratégicas, reduzem riscos e geram valor para o negócio.
 
 ---
 
-# Como transformo dados em valor
+# 🧩 Como transformo dados em valo
 
 ```text
             Problema de Negócio
@@ -38,7 +38,7 @@ Sou profissional com mais de 10 anos de experiência em  Contabilidade, Departam
 
  ---
 
-# 🚀 Ecossistema de Soluções em Dados e Inteligência Artificial
+# 🌐 Ecossistema de Soluções
 
 Cada repositório deste GitHub representa uma solução desenvolvida para resolver um problema de negócio específico.
 
@@ -105,39 +105,17 @@ Cada projeto representa uma etapa de um ecossistema voltado para geração de va
 
 
 
-
 # 🎯 O que este portfólio demonstra
 
-Mais do que apresentar projetos isolados, este portfólio evidencia competências aplicadas em diferentes etapas do ciclo de desenvolvimento de soluções baseadas em dados.
+Este portfólio reúne projetos que aplicam Ciência de Dados e Inteligência Artificial em problemas reais de negócio, demonstrando competências técnicas e visão estratégica.
 
-## 📊 Analytics
-
-* Análise Exploratória de Dados (EDA)
-* Storytelling com Dados
-* Indicadores de Negócio
-* Dashboards Executivos
-
----
-
-## 🤖 Inteligência Artificial
-
-* Machine Learning
-* Explainable AI (XAI)
-* IA Generativa
-* Engenharia de Prompt
-* RAG (Retrieval-Augmented Generation)
-
----
-
-## 💼 Negócio
-
-* Gestão de Riscos
-* Compliance
-* Analytics Financeiro
-* Educação Financeira
-* Automação Analítica
-* Tomada de Decisão
-
+| 📊 Analytics | 🤖 Inteligência Artificial | 💼 Negócio |
+|--------------|----------------------------|------------|
+| Análise Exploratória de Dados (EDA) | Machine Learning | Financial Analytics |
+| Storytelling com Dados | Explainable AI (XAI) | Gestão de Riscos |
+| Dashboards Executivos | IA Generativa | Compliance |
+| Indicadores de Negócio | Engenharia de Prompt | Business Intelligence |
+| Visualização de Dados | RAG | Educação Financeira |
 
 
 # 🛠️ Expertise
