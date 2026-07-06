@@ -63,33 +63,36 @@ Cada projeto representa uma etapa de um ecossistema voltado para geração de va
 </p>
 
 
-# 🎯 O que este portfólio demonstra
+# 🚀 Competências Demonstradas
 
-Este portfólio reúne projetos que aplicam Ciência de Dados e Inteligência Artificial em problemas reais de negócio, demonstrando competências técnicas e visão estratégica.
+Mais do que apresentar tecnologias, este portfólio evidencia a aplicação prática de **Ciência de Dados, Inteligência Artificial e conhecimento de negócio** na resolução de problemas reais, conectando análise de dados, desenvolvimento de modelos e geração de valor para organizações.
 
-| 📊 Analytics | 🤖 Inteligência Artificial | 💼 Negócio |
-|--------------|----------------------------|------------|
-| Análise Exploratória de Dados (EDA) | Machine Learning | Financial Analytics |
-| Storytelling com Dados | Explainable AI (XAI) | Gestão de Riscos |
-| Dashboards Executivos | IA Generativa | Compliance |
-| Indicadores de Negócio | Engenharia de Prompt | Business Intelligence |
-| Visualização de Dados | RAG | Educação Financeira |
+<div align="center">
 
-
-# 🛠️ Expertise
-
-<p align="center">
-
-| 📊 **Data Analytics** | 🤖 **Inteligência Artificial** | 💼 **Business & Financial Intelligence** |
+| 📊 **Data Analytics** | 🤖 **Artificial Intelligence** | 💼 **Business & Financial Intelligence** |
 |:---:|:---:|:---:|
 | 🐍 Python | 🧠 Machine Learning | 💰 Financial Analytics |
-| 🗄️ SQL | ✨ IA Generativa | 🛡️ Risk Analytics |
-| 🐼 Pandas | 🔍 Explainable AI (XAI) | ⚖️ Compliance |
-| 📈 Data Visualization | 📚 RAG | 📊 Business Intelligence |
-| 📖 Storytelling com Dados | 💬 Prompt Engineering | 🏛️ Governança |
+| 🗄️ SQL | ✨ Generative AI | 🛡️ Risk Analytics |
+| 🐼 Pandas & NumPy | 🔍 Explainable AI (XAI) | ⚖️ Compliance |
+| 📈 EDA & Data Visualization | 📚 RAG & Prompt Engineering | 📊 Business Intelligence |
+| 📖 Storytelling com Dados | 💬 NLP • LLMs • Ollama | 🏛️ Governança & Tomada de Decisão |
 
-</p>
+</div>
 
+<br>
+
+<div align="center">
+
+| 🎯 **O que entrego através dessas competências** |
+|:---|
+| ✔ Soluções orientadas por dados para problemas de negócio |
+| ✔ Modelos de Machine Learning interpretáveis e aplicáveis |
+| ✔ Dashboards executivos para apoio à decisão |
+| ✔ Aplicações com IA Generativa e Engenharia de Prompt |
+| ✔ Automação de processos analíticos |
+| ✔ Soluções para Gestão de Riscos e Educação Financeira |
+
+</div>
 
 # 🚀 Minha Jornada Profissional
 
@@ -187,23 +190,7 @@ Essa combinação me permite compreender não apenas **como construir um modelo*
 
 ---
 
-# 🏆 Destaques Profissionais
 
-Ao longo da minha transição para Ciência de Dados, busquei construir projetos que fossem além do aprendizado técnico.
-
-Meu portfólio demonstra a aplicação prática de Dados e Inteligência Artificial em cenários reais, especialmente nas áreas de:
-
-| 💼 Negócio | 🤖 Inteligência Artificial | 📊 Analytics | 🎯 Impacto |
-|------------|----------------------------|-------------|-----------|
-| Gestão de Riscos Financeiros | IA Generativa | Data Analytics | Soluções orientadas ao negócio |
-| Compliance Analytics | Explainable AI (XAI) | Dashboards Executivos | Tomada de decisão baseada em dados |
-| Financial Intelligence | Prompt Engineering & RAG | Storytelling com Dados | Automação e eficiência |
-
-> **Todos os projetos foram desenvolvidos para resolver problemas reais, integrando conhecimento de negócio, Ciência de Dados e Inteligência Artificial.**
-
-Cada projeto foi desenvolvido com foco em resolver um problema de negócio, documentar decisões técnicas e comunicar resultados de forma clara.
-
----
 
 # 💡 Minha Filosofia
 
