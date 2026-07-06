@@ -5,13 +5,13 @@
 
 # 👋 Sobre Mim
 
-Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Depº P,Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio voltada à análise para a tomada de decisão.
+Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Depº Pessoal,Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio orientada à análise de dados, gestão de riscos e tomada de decisão.
 
 Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções que transformam dados em inteligência, apoiando decisões estratégicas, reduzindo riscos e gerando valor para organizações.
 
 ---
 
-# 🧩 Como transformo dados em valo
+# 🧩 Como transformo dados em valor
 
 ```text
             Problema de Negócio
@@ -131,15 +131,7 @@ Cada etapa ampliou minha capacidade de compreender problemas complexos e desenvo
 
 # 💎 O que torna minha trajetória diferente?
 
-Muitos profissionais iniciam sua carreira aprendendo ferramentas.
-
-Minha trajetória aconteceu no caminho inverso.
-
-Primeiro desenvolvi uma visão profunda sobre processos financeiros, tributários, compliance e gestão.
-
-Depois passei a aplicar Ciência de Dados, Machine Learning e Inteligência Artificial para resolver esses mesmos problemas de forma mais inteligente.
-
-Essa combinação me permite compreender não apenas **como construir um modelo**, mas principalmente **qual problema de negócio ele resolve**.
+Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de construir modelos, aprendi a compreender processos financeiros, tributários e de compliance. Hoje aplico Ciência de Dados e Inteligência Artificial para resolver esses desafios de forma orientada por dados.
 
 ---
 
@@ -214,12 +206,12 @@ Estou sempre aberta a oportunidades, colaborações e desafios que envolvam dado
 
 <div align="center">
 
-<a href="https://github.com/BARBARANFS">
+<a href="https://github.com/BARBARANFS" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-BARBARANFS-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/barbarafreitas-dataanalytics" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Barbara%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:SEUEMAIL@email.com">
