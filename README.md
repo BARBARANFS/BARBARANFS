@@ -36,6 +36,7 @@ Embora possam ser utilizados de forma independente, todos fazem parte de um mesm
 
 ---
 
+
 ## 🔗 Como os projetos se conectam
 
 Os quatro projetos representam uma evolução contínua de competências em Ciência de Dados e Inteligência Artificial.
