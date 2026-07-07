@@ -1,13 +1,27 @@
 <p align="center">
   <img src="assets/banner.png" alt="Barbara Freitas | Data Analytics | Machine Learning | Generative AI" width="100%">
 </p>
+<h1 align="center">
+Olá, eu sou Barbara Freitas
+</h1>
 
+<h3 align="center">
+Data Analytics • Machine Learning • Generative AI • Financial Intelligence
+</h3>
+
+<p align="center">
+Transformando conhecimento de negócio em soluções inteligentes através de Dados e Inteligência Artificial.
+</p>
+
+---
 
 # 👋 Sobre Mim
 
-Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados. Ao longo de mais de 10 anos de atuação nas áreas Contábil, Departamento Pessoal, Fiscal, Tributária, Compliance e Incentivos Fiscais, desenvolvi uma sólida visão de negócio orientada à análise de dados, gestão de riscos e tomada de decisão.
+Sou graduada em Ciências Contábeis, especialista em Direito Tributário e Aduaneiro e graduanda em Ciência de Dados.
 
-Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções que transformam dados em inteligência, apoiando decisões estratégicas, reduzindo riscos e gerando valor para organizações.
+Possuo mais de 10 anos de experiência nas áreas Contábil, Departamento Pessoal, Fiscal, Tributária.
+
+Atualmente aplico Data Analytics, Machine Learning e Inteligência Artificial Generativa para desenvolver soluções voltadas à automação, análise de dados, educação financeira, gestão de riscos e apoio à tomada de decisão.
 
 ---
 # 🌐 Ecossistema de Soluções
@@ -19,19 +33,6 @@ Embora possam ser utilizados de forma independente, todos fazem parte de um mesm
 <p align="center">
   <img src="assets/projetos.png" width="100%">
 </p>
-
----
-
-## 🚀 Evolução dos Projetos
-
-| Etapa | Projeto | Objetivo |
-|:------|:---------|:---------|
-| 📘 **Knowledge Engineering** | **MiniGuia SFN Investimentos** | Base estruturada de conhecimento financeiro desenvolvida no NotebookLM para aplicações de IA Generativa e RAG. |
-| 🎙️ **Conversational AI** | **VoxAI** | Pipeline de interação por voz utilizando Whisper, NLP, Transformers e síntese de voz. |
-| 💙 **Generative AI** | **BIA Academy Finance** | Assistente inteligente para educação financeira utilizando RAG, LLM Local (Ollama) e IA Generativa. |
-| 🛡️ **Machine Learning & Risk Analytics** | **FraudShield AI 2.0** | Plataforma de detecção de fraudes com Machine Learning, Explainable AI (XAI) e dashboards executivos. |
-
-> **Conhecimento → Inteligência → Interação → Decisão**
 
 ---
 
@@ -62,6 +63,8 @@ Machine Learning • Explainable AI • Risk Analytics
         │
         ▼
 Business Intelligence
+        │
+        ▼
 Tomada de Decisão
 ```
 
@@ -209,16 +212,13 @@ Minha trajetória começou pelo negócio e evoluiu para a tecnologia. Antes de c
 
 # 💡 Minha Filosofia
 
-> **Dados contam histórias.**
->
-> **Modelos identificam padrões.**
->
-> **Inteligência Artificial amplia possibilidades.**
->
-> **Mas o verdadeiro impacto acontece quando tecnologia e conhecimento de negócio trabalham juntos para resolver problemas reais.**
->
-> É nessa interseção entre pessoas, dados e estratégia que construo minha carreira.
+> Dados contam histórias.
 
+> Modelos identificam padrões.
+
+> Inteligência Artificial amplia possibilidades.
+
+> O verdadeiro impacto acontece quando tecnologia e conhecimento de negócio trabalham juntos para resolver problemas reais.
 ---
 
 # 🤝 Vamos conversar?
