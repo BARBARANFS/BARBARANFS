@@ -12,9 +12,15 @@ Hoje uno essas experiências ao uso de Data Analytics, Machine Learning e Inteli
 ---
 # 🌐 Ecossistema de Soluções
 
-Este portfólio reúne um conjunto de projetos desenvolvidos de forma evolutiva, demonstrando diferentes aplicações de Engenharia de Conhecimento, Inteligência Artificial Generativa, Processamento de Linguagem Natural, Machine Learning e Analytics.
+Este portfólio reúne um conjunto de projetos desenvolvidos de forma evolutiva, demonstrando aplicações práticas de Engenharia de Conhecimento, Inteligência Artificial Generativa, Processamento de Linguagem Natural, Machine Learning e Analytics.
 
 Embora possam ser utilizados de forma independente, todos fazem parte de um mesmo ecossistema voltado à transformação de dados em inteligência para apoiar decisões, reduzir riscos e gerar valor para organizações.
+
+<p align="center">
+  <img src="assets/projetos.png" width="100%">
+</p>
+
+---
 
 ## 🚀 Evolução dos Projetos
 
@@ -31,7 +37,7 @@ Embora possam ser utilizados de forma independente, todos fazem parte de um mesm
 
 ## 🔗 Como os projetos se conectam
 
-Os projetos representam uma evolução contínua de competências e aplicações em Ciência de Dados e Inteligência Artificial.
+Os quatro projetos representam uma evolução contínua de competências em Ciência de Dados e Inteligência Artificial.
 
 ```text
 MiniGuia SFN Investimentos
@@ -52,23 +58,12 @@ Generative AI • RAG • LLM Local
         ▼
 FraudShield AI 2.0
         │
-Machine Learning • XAI • Risk Analytics
+Machine Learning • Explainable AI • Risk Analytics
         │
         ▼
 Business Intelligence
 Tomada de Decisão
 ```
-
-O **MiniGuia SFN Investimentos** estruturou uma base organizada de conhecimento financeiro, servindo como fundamento para aplicações baseadas em IA Generativa.
-
-O **VoxAI** expandiu essa trajetória ao explorar processamento de linguagem natural e interação por voz, demonstrando o uso de modelos modernos de IA Conversacional.
-
-A **BIA Academy Finance** consolidou esses conhecimentos em uma aplicação completa de educação financeira, integrando RAG, LLM Local, Engenharia de Prompts e acessibilidade.
-
-Por fim, o **FraudShield AI 2.0** representa a aplicação de Ciência de Dados, Machine Learning e Explainable AI em um cenário corporativo de análise de riscos e detecção de fraudes.
-
-Em conjunto, os quatro projetos demonstram uma evolução técnica consistente, desde a organização do conhecimento até a construção de soluções inteligentes para apoio à tomada de decisão.
-
 
 # 🧩 Como transformo dados em valor
 
