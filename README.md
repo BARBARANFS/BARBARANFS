@@ -232,7 +232,7 @@ Estou sempre aberta a oportunidades, colaborações e desafios que envolvam dado
 <img src="https://img.shields.io/badge/GitHub-BARBARANFS-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/barbarafreitas-dataanalytics" target="_blank">
+<a href="https://www.linkedin.com/in/barbarafreitas-analytics" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Barbara%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
